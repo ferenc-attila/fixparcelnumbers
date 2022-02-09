@@ -1,0 +1,5 @@
+identifier;description;activity;isActive;start time;end time;notes
+0;evening jogging;Sport;false;2021-06-04 18:25;;
+1;morning commute;Work;true;2021-11-25 05:40;2021-11-25 06:10;by bus
+4;Northern Loon twitch;Hobbies;false;2021-08-12 19:30;2021-08-12 07:10;the bird was founded
+5;Eagle photography;Hobbies;false;2021-10-12 05:10;2021-10-12 19:20;
